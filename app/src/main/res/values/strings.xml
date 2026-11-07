@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Agent</string>
+    <string name="accessibility_description">사용자가 요청한 작업을 끝낼 때까지 화면의 글자와 버튼을 읽고, 탭·밀기·입력을 수행합니다. 읽은 화면 내용은 사용자의 LM Arena 대화로 전송됩니다.</string>
+</resources>
